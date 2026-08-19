@@ -2,7 +2,7 @@ Usage:
 
 1. Open Windows PowerShell Run as Administrator
 
-Copy and Paste Script to PowerShell and Press Enter
+2. Copy and Paste Script to PowerShell and Press Enter
 
 PowerShell Script:
 ```
