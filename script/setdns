@@ -6,7 +6,7 @@
 # Version: 1.1 - GitHub Remote Execution
 #
 # Remote execution:
-# irm https://raw.githubusercontent.com/sharkwire28/dns-setter/main/scripts/setdns.ps1 | iex
+# irm https://raw.githubusercontent.com/sharkwire28/dns-setter/main/script/setdns | iex
 #
 # Custom domain:
 # irm http://it.acrogroup.net/setdns | iex
