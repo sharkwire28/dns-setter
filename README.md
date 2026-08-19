@@ -1,6 +1,6 @@
 Usage:
 
-1. Open Windows PowerShell as Administrator
+1. Open Windows PowerShell Run as Administrator
 
 Copy and Paste Script to PowerShell and Press Enter
 
